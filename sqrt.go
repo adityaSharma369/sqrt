@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-	fmt.Println(math.Sqrt(100000))
+	fmt.Println("failed" :  math.Sqrt(100000))
 }
