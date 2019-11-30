@@ -1,5 +1,5 @@
 package main
 import("fmt"; "math";);
 func main() {
-    fmt.Println(math.Sqrt(1250));
+    fmt.Println(math.Sqrt(125));
 };
