@@ -1,5 +1,10 @@
 package main
-import("fmt"; "math";);
+
+import (
+	"fmt"
+	"math"
+)
+
 func main() {
-    fmt.Println(math.Sqrt(12500));
-};
+	fmt.Println(math.Sqrt(625))
+}
