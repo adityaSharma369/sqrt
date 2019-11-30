@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-	fmt.Printf(math.Sqrt(100000))
+	fmt.Println(math.Sqrt(100000))
 }
