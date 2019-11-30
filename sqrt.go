@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-	fmt.Println("The Square Root is " + math.Sqrt(50000))
+	fmt.Printf(math.Sqrt(100000))
 }
