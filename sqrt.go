@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	fmt.Println(math.Sqrt(500000))
+	fmt.Println(math.Sqrt(5000))
 }
 
 
